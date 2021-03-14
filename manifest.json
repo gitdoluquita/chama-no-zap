@@ -1,0 +1,16 @@
+{
+
+    "manifest_version": 2,
+    "name": "Chama No Zap",
+    "version": "0.1",
+
+    "description": "Abra telefones diretamente no Whatsapp",
+
+    "permissions": ["contextMenus"],
+
+    "background": {
+        "scripts": ["background.js"]
+      }
+
+
+}
